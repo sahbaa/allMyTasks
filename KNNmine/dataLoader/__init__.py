@@ -1,0 +1,1 @@
+from preprocessing.preprocessor import image_resizer
